@@ -1,0 +1,29 @@
+﻿#container {
+    width: 1000px;
+    height: 400px;
+    position: relative;
+    background: black;
+}
+
+#animate {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background-color: cyan;
+}
+
+h1 {
+    font-family: "Trebuchet MS", Optima;
+    text-align: center;
+    color: rebeccapurple;
+}
+
+h3 {
+    font-family: "Trebuchet MS", Optima;
+    text-align: center;
+    color: darkorange;
+}
+
+body {
+    background-color: darkgrey
+}
